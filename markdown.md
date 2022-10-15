@@ -16,5 +16,29 @@
 
 ![apache status](./images/apache_status_4.PNG)
 
+Opened inbound connection through port 80
+
+![port 80 status](./images/port_80_opened.PNG)
+
+`curl http://localhost:80`
+
+![apache http server response](./images/apache_http_server_response_page1.PNG)
+
+![apache http server response](./images/apache_http_server_response_page2.PNG)
+
+![apache http server response](./images/apache_http_server_response_page3.PNGg)
+
+![apache http server response](./images/apache_http_server_response_page4.PNG)
+
+![apache http server response](./images/apache_http_server_response_page5.PNG)
+
+![apache http server response](./images/apache_http_server_response_page6.PNG)
+
+![apache http server response](./images/apache_http_server_response_page7.PNG)
+
+![apache http server response](./images/apache_http_server_response_page8.PNG)
+
+![apache http server response](./images/apache_http_server_response_page9.PNG)
+
 
 
