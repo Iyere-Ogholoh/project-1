@@ -40,5 +40,14 @@ Opened inbound connection through port 80
 
 ![apache http server response](./images/apache_http_server_response_page9.PNG)
 
+[apache http](http://13.38.130.39)
+
+![apache http request response](./images/apache_http_request_response.PNG)
+
+`curl -s http:/13.38.130.39/latest/meta-data/public-ipv4`
+
+![curl response](./images/public_ip_address_retrieval.PNG)
+
+
 
 
