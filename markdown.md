@@ -54,4 +54,13 @@ Opened inbound connection through port 80
 
 ![mysql server installation](./images/mysql_installation/mysql_installation_page2.PNG)
 
+`sudo mysql`
+
+![sudo mysql response](./images/mysql_installation/sudo_mysql_response.PNG)
+
+`sudo mysql_secure_installation`
+
+![sudo mysql secure installation](./images/mysql_installation/sudo_mysql_secure_installation_page1.PNG)
+
+![sudo mysql secure installation](./images/mysql_installation/sudo_mysql_secure_installation_page2.PNG)
 
