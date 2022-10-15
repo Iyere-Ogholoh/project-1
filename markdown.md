@@ -48,6 +48,10 @@ Opened inbound connection through port 80
 
 ![curl response](./images/public_ip_address_retrieval.PNG)
 
+`sudo apt install mysql-server`
 
+![mysql server installation](./images/mysql_installation/mysql_installation_page1.PNG)
+
+![mysql server installation](./images/mysql_installation/mysql_installation_page2.PNG)
 
 
