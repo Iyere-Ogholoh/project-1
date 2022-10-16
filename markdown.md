@@ -67,3 +67,11 @@ Opened inbound connection through port 80
 `sudo mysql -p`
 
 ![mysql console login](./images/mysql_installation/sudo_mysql_-p_response.PNG)
+
+`sudo apt install php libapache2-mod-php php-mysql`
+
+![php](./images/php_installation/php_installation_page.PNG))
+cd pr
+
+
+
