@@ -70,8 +70,15 @@ Opened inbound connection through port 80
 
 `sudo apt install php libapache2-mod-php php-mysql`
 
-![php](./images/php_installation/php_installation_page.PNG))
-cd pr
+![php](./images/php_installation/php_installation_page.PNG)
+
+`php -v`
+
+![php version](./images/php_installation/php_version.PNG)
+
+
+
+
 
 
 
